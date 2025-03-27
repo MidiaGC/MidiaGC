@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Meu nome é Guilherme Canuto
 
-<!--
-**MidiaGC/MidiaGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎓 Formação
+Graduando em Análise e Desenvolvimento de Sistemas | PUCRS
+# 💻 Tecnologias e Habilidades
 
-Here are some ideas to get you started:
+- Linguagens: Java
+- Frameworks: Spring, Angular
+- Banco de Dados: SQL
+- Ferramentas: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,js,html,css,mysql,git)](https://skillicons.dev)
+
+#
+
+<div>
+    <a href="www.linkedin.com/in/guilhermecanuto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href ="mailto:canutog223@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
